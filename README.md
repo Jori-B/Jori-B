@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jori
 - 👀 I’m interested in full-stack development, psychology, AI, and educational technology
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate if you
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joriblankestijn/)
 
 <!---
